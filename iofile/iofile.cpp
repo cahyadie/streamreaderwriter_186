@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 	string basris;
 
-	//membuka fila dalam mode menulis.
+	//membuka file dalam mode menulis.
 	ofstream outfile;
 
-}
+} 
