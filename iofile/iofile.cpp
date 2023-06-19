@@ -21,6 +21,7 @@ int main() {
 		//loop akan berhenti jika anda memasukan karakter 
 		if (baris == "q") break;
 		//menulis dan memasukan nilai dari baris ke file
+		outfile << baris << endl;
 	}
 	//selasi dalam menulis sekarang tutup filenya
 	outfile.close();
